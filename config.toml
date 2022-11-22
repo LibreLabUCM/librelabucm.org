@@ -1,0 +1,4 @@
+baseURL = 'https://librelabucm.org/'
+languageCode = 'es-ES'
+title = 'LibreLabUCM'
+theme = 'ananke'
